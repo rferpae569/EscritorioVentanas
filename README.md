@@ -1,8 +1,5 @@
-# React + Vite
+## EscritorioVentana con React + vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Al ejecutar el contenido de este repositorio, veremos un escritorio en el que se mostraran seis widget que podremos mover por el escritorio y cerrarlas dandole a la "x" de cada widget. Aparte de eso, tambien podremos desactivarlas o activarlas dandole a los botones ubicados en la parte inferior.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Este proyecto ha sido realizado por Rubén Fernández.
