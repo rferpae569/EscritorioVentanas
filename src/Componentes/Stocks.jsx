@@ -18,7 +18,7 @@ export default function Stocks(props) {
 						name="Stocks"
 						onClick={props.changeHandler}
 					></button>
-					<img src="{`${import.meta.env.BASE_URL}Imagenes/stock.png" />
+					<img src="/Imagenes/stock.png" />
 				</div>
 			</Draggable>
 		</div>
