@@ -19,7 +19,7 @@ export default function ToDo(props) {
 						onClick={props.changeHandler}
 					></button>
 
-					<img src="Imagenes/weather.png" />
+					<img src="Imagenes/todo.png" />
 				</div>
 			</Draggable>
 		</div>
